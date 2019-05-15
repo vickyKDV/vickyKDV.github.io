@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
@@ -23,3 +24,6 @@ phone: +1-800-555-2016
 # Tracking
 googleAnalitycsID: UA-83933844-1
 
+=======
+theme: jekyll-theme-architect
+>>>>>>> 3f58d57c55fcd4a111e4c2401987d30ac598eedd
